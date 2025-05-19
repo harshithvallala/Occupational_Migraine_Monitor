@@ -3,7 +3,7 @@
 A data-driven project that analyzes and predicts the likelihood of experiencing sleep disorders (used here as a proxy for migraines/headaches) based on a person's occupation and lifestyle factors.
 
 
-## 📌 Project Overview
+##  Project Overview
 
 Work-related stress and lifestyle differences can significantly impact sleep health and migraine frequency. This project uses machine learning and data analysis techniques to identify which occupations are more prone to sleep disorders, helping organizations and individuals better understand occupational health risks.
 
@@ -21,7 +21,7 @@ Work-related stress and lifestyle differences can significantly impact sleep hea
 - **Target Variable:** Sleep Disorder (None, Insomnia, Apnea)
 
 
-## ⚙️ Features
+##  Features
 
 - Cleans and preprocesses sleep and lifestyle data
 - Extracts systolic and diastolic blood pressure
@@ -30,7 +30,7 @@ Work-related stress and lifestyle differences can significantly impact sleep hea
 - (Optional) Predicts sleep disorder risks using machine learning
 
 
-## 📈 Technologies Used
+##  Technologies Used
 
 - Python  
 - Pandas, NumPy  
